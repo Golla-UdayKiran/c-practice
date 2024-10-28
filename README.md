@@ -36,4 +36,4 @@
 
 &#183; A compiler, like GCC, to translate the C code into a language that the computer will understand
 
-There are many text editors and compilers to choose from. In this tutorial, we will use an <b>IDE</b> (see below).</p>
+There are many text editors and compilers to choose from. In this tutorial, we will use an <b><i>IDE</b></i> (see below).</p>
