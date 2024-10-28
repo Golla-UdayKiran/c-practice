@@ -76,4 +76,10 @@ In Codeblocks, it should look like this:</p>
 
 <img src="https://www.w3schools.com/c/codeblocks2020.png">
 
-<p>Then, go to <b>Build > Build and Run</b> to run (execute) the program. The result will look something to this:</p>
+<p>Then, go to <b>Build > Build and Run</b> to run (execute) the program. The result will look something to this:
+
+Hello World!
+
+Process returned 0 (0x0) execution time : 0.011 s
+
+Press any key to continue.</p>
