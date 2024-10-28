@@ -82,4 +82,6 @@ In Codeblocks, it should look like this:</p>
 
   Process returned 0 (0x0) execution time : 0.011 s
 
-  Press any key to continue.</p>
+  Press any key to continue.
+
+<b>Congratulations</b>! You have now written and executed your first C program.</p>
