@@ -32,8 +32,8 @@
 
 <p>To start using C, you need two things:
 
-&#183; A text editor, like Notepad, to write C code
+  &#183; A text editor, like Notepad, to write C code
 
-&#183; A compiler, like GCC, to translate the C code into a language that the computer will understand
+  &#183; A compiler, like GCC, to translate the C code into a language that the computer will understand
 
 There are many text editors and compilers to choose from. In this tutorial, we will use an <b><i>IDE</b></i> (see below).</p>
