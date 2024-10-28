@@ -49,3 +49,11 @@ There are many text editors and compilers to choose from. In this tutorial, we w
   &#183; We will use <b>Code::Blocks</b> in our tutorial, which we believe is a good place to start.
 
   &#183; You can find the latest version of Codeblocks at <a href="http://www.codeblocks.org/">http://www.codeblocks.org/</a>. Download the mingw-setup.exe file, which will install the text editor with a compiler.</p>
+
+<h2>C Quickstart</h2>
+
+<p>Let's create our first C file.
+
+Open Codeblocks and go to <b>File > New > Empty File</b>.
+
+Write the following C code and save the file as myfirstprogram.c (<b>File > Save File as</b>):</p>
