@@ -37,3 +37,15 @@
   &#183; A compiler, like GCC, to translate the C code into a language that the computer will understand
 
 There are many text editors and compilers to choose from. In this tutorial, we will use an <b><i>IDE</b></i> (see below).</p>
+
+<h2>C Install IDE</h2>
+
+  &#183; An IDE (Integrated Development Environment) is used to edit AND compile the code.
+
+  &#183;Popular IDE's include Code::Blocks, Eclipse, and Visual Studio. These are all free, and they can be used to both edit and debug C code.
+
+<b>Note:</b> Web-based IDE's can work as well, but functionality is limited.
+
+  &#183; We will use <b>Code::Blocks</b> in our tutorial, which we believe is a good place to start.
+
+  &#183; You can find the latest version of Codeblocks at <a href="http://www.codeblocks.org/">http://www.codeblocks.org/</a>. Download the mingw-setup.exe file, which will install the text editor with a compiler.</p>
