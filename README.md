@@ -60,9 +60,12 @@ Write the following C code and save the file as <code>myfirstprogram.c</code> (<
 
 <h3>myfirstprogram.c</h3>
 
-<p>#include <stdio.h>
+<p>#include &lt;stdio.h&gt;
 
 int main() {
+
   printf("Hello World!");
+  
   return 0;
+  
 }</p>
