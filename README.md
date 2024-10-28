@@ -15,6 +15,9 @@
 <h2>Why Learn C?</h2>
 
 <p>&#183; It is one of the most popular programming languages in the world
+  
 &#183; If you know C, you will have no problem learning other popular programming languages such as Java, Python, C++, C#, etc, as the syntax is similar
+
 &#183; C is very fast, compared to other programming languages, like Java and Python
+
 &#183; C is very versatile; it can be used in both applications and technologies</p>
