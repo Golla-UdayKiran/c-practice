@@ -27,3 +27,13 @@
 <p>&#183; C++ was developed as an extension of C, and both languages have almost the same syntax
   
 &#183; The main difference between C and C++ is that C++ support classes and objects, while C does not</p>
+
+<h2>Get Started With C</h2>
+
+<p>To start using C, you need two things:
+
+&#183; A text editor, like Notepad, to write C code
+
+&#183; A compiler, like GCC, to translate the C code into a language that the computer will understand
+
+There are many text editors and compilers to choose from. In this tutorial, we will use an IDE (see below).</p>
