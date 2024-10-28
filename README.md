@@ -68,4 +68,12 @@ int main() {
   
   return 0;
   
-}</p>
+}
+
+Don't worry if you don't understand the code above - we will discuss it in detail in later chapters. For now, focus on how to run the code.
+
+In Codeblocks, it should look like this:</p>
+
+<img src="https://www.w3schools.com/c/codeblocks2020.png">
+
+<p>Then, go to <b>Build > Build and Run</b> to run (execute) the program. The result will look something to this:</p>
