@@ -1,3 +1,8 @@
+/*C Syntax
+
+You have already seen the following code a couple of times in the first chapters.
+Let's break it down to understand it better:*/
+
 #include <stdio.h>
 
 int main() {

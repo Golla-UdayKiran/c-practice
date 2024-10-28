@@ -1,4 +1,6 @@
-//To insert a new line, you can use the \n character:
+/*C New Lines
+
+To insert a new line, you can use the \n character:*/
 
 /*#include <stdio.h>
 
@@ -45,7 +47,15 @@ Hello World!
 
 I am learning C.*/
 
-//\t	Creates a horizontal tab
+/*What is \n exactly?
+
+The newline character (\n) is called an escape sequence, and it forces the cursor to change its position to the beginning of the next line on the screen.
+This results in a new line.
+
+Examples of other valid escape sequences are:*/
+
+/*Escape Sequence
+\t	Creates a horizontal tab*/
 
 /*#include <stdio.h>
 
@@ -59,7 +69,8 @@ int main() {
 
 Hello World!    I am learning C.*/
 
-//\\	Inserts a backslash character (\)
+/*Escape Sequence
+\\	Inserts a backslash character (\)*/
 
 /*#include <stdio.h>
 
@@ -73,7 +84,8 @@ int main() {
 
 Hello World!\I am learning C.*/
 
-//\"	Inserts a double quote character
+/*Escape Sequence
+\"	Inserts a double quote character*/
 
 #include <stdio.h>
 

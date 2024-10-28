@@ -1,3 +1,21 @@
+/*C Statements
+
+A computer program is a list of "instructions" to be "executed" by a computer.
+
+In a programming language, these programming instructions are called statements.
+
+The following statements "instructs" the compiler to print both the text "Hello World!Have a good day!" to the screen:
+
+It is important that you end the statement with a semicolon ;
+
+If you forget the semicolon (;), an error will occur and the program will not run:
+
+Many Statements
+
+Most C programs contain many statements.
+
+The statements are executed, one by one, in the same order as they are written:*/
+
 #include <stdio.h>
 
 int main() {
