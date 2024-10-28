@@ -56,13 +56,13 @@ There are many text editors and compilers to choose from. In this tutorial, we w
 
 Open Codeblocks and go to <b>File > New > Empty File</b>.
 
-Write the following C code and save the file as myfirstprogram.c (<b>File > Save File as</b>):</p>
+Write the following C code and save the file as <code>myfirstprogram.c</code> (<b>File > Save File as</b>):</p>
 
 <h3>myfirstprogram.c</h3>
 
-<code>#include <stdio.h>
+<p>#include <stdio.h>
 
 int main() {
   printf("Hello World!");
   return 0;
-}</code>
+}</p>
