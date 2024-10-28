@@ -21,3 +21,9 @@
 &#183; C is very fast, compared to other programming languages, like Java and Python
 
 &#183; C is very versatile; it can be used in both applications and technologies</p>
+
+<h2>Difference between C and C++</h2>
+
+<p>&#183; C++ was developed as an extension of C, and both languages have almost the same syntax
+  
+&#183; The main difference between C and C++ is that C++ support classes and objects, while C does not</p>
